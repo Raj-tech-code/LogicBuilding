@@ -1,4 +1,4 @@
-package LogicBuilding;
+package main.java.LogicBuilding;
 
 public class FindLargestNumberInArray {
 

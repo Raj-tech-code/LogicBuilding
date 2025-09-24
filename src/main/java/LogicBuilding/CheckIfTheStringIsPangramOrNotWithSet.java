@@ -1,4 +1,4 @@
-package LogicBuilding;
+package main.java.LogicBuilding;
 
 import java.util.HashSet;
 import java.util.Set;
